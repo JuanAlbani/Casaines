@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: 'export', // para exportar a HTML estático si vas a usar GitHub Pages
+    output: 'export', // Solo si planeas exportar el sitio como HTML estático
   };
   
   module.exports = nextConfig;
-  
